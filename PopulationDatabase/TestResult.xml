@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="0" result="Failed" label="Invalid" total="0" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.11.1.0" clr-version="4.0.30319.42000" start-time="2020-06-24 22:00:59Z" end-time="2020-06-24 22:00:59Z" duration="0.346358">
+  <command-line><![CDATA["C:\ProgramData\chocolatey\lib\nunit-console-runner\tools\nunit3-console.exe" PopulationDatabase.csproj ]]></command-line>
+  <test-suite type="Unknown" id="0-1" name="PopulationDatabase.csproj" fullname="C:\Users\jlfly\Desktop\repos\c-sharp-fun\PopulationDatabase\PopulationDatabase.csproj" testcasecount="0" runstate="NotRunnable" result="Failed" label="Invalid">
+    <properties>
+      <property name="_SKIPREASON" value="File type is not supported" />
+    </properties>
+    <reason>
+      <message>File type is not supported</message>
+    </reason>
+  </test-suite>
+</test-run>
